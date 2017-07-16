@@ -1,0 +1,12 @@
+
+.:
+dir1
+dir1:
+dir2
+dir3
+lazy_dog.txt
+ls_output.txt
+readme.md
+test1.md
+test.md
+tlcl-cn.pdf
