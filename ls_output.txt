@@ -1,12 +1,13 @@
+total 1032444
+drwxrwxrwx 0 root root     512 Jul  2 15:57 dir1
+drwxrwxrwx 0 root root     512 Jul  2 15:49 dir2
+drwxrwxrwx 0 root root     512 Jul  2 16:02 dir3
+-rwxrwxrwx 1 root root     127 Aug 26 18:03 foo.txt
+-rwxrwxrwx 1 root root      50 Jul 16 17:14 lazy_dog.txt
+-rwxrwxrwx 1 root root       0 Aug 26 18:03 ls_output.txt
+-rwxrwxrwx 1 root root      97 Aug 13 22:35 ls.txt
+-rwxrwxrwx 1 root root      30 Jul 16 17:47 passwd
+-rwxrwxrwx 1 root root     139 Jul 16 17:44 readme.md
+-rwxrwxrwx 1 root root 2045697 Jul  1 19:50 tlcl-cn.pdf
+-rwxrwxrwx 1 root root      26 Aug 20 19:10 two_words.txt
 
-.:
-dir1
-dir1:
-dir2
-dir3
-lazy_dog.txt
-ls_output.txt
-readme.md
-test1.md
-test.md
-tlcl-cn.pdf

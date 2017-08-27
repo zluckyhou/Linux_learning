@@ -1,0 +1,11 @@
+dir1
+dir2
+dir3
+lazy_dog.txt
+ls_output.txt
+ls.txt
+passwd
+Pics
+readme.md
+tlcl-cn.pdf
+two_words.txt
